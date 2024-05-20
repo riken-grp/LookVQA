@@ -1,5 +1,8 @@
-# Gaze-grounded VQA Dataset
-This repository includes the Gaze-grounded Visual Question Answering dataset (GazeVQA) introduced by the following paper: Shun Inadumi, Seiya Kawano, Akishige Yuguchi, Yasutomo Kawanishi, Koichiro Yoshino. "A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions". In Proc. of LREC-COLING 2024.
+# A Gaze-grounded Visual Question Answering Dataset
+
+[![Conference](https://img.shields.io/badge/LREC--COLING-2024-bbeaff.svg)](https://aclanthology.org/2024.lrec-main.48/) [![arXiv](https://img.shields.io/badge/arXiv-2403.17545-b31b1b.svg)](https://arxiv.org/abs/2403.17545)
+
+This repository includes a Gaze-grounded Visual Question Answering Dataset (GazeVQA) introduced by the following paper: Shun Inadumi, Seiya Kawano, Akishige Yuguchi, Yasutomo Kawanishi, Koichiro Yoshino. "A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions". In Proc. of LREC-COLING 2024.
 
 ## License
 [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
@@ -41,17 +44,18 @@ Copyright (c) 2015, COCO Consortium.
 # Citation
 You can cite it as follows:
 ```
-@inproceedings{inadumi-etal-2024-gaze,
+@inproceedings{inadumi-etal-2024-gaze-grounded,
+  title     = "A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous {J}apanese Questions,
   author    = "Shun Inadumi and
                Seiya Kawano and
                Akishige Yuguchi and
                Yasutomo Kawanishi and
                Koichiro Yoshino",
-  title     = "A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions",
-  booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation",
+  booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+  pages     = "558--571"
   year      = "2024"
 }
 ```
 
 
-If you have any questions about the paper and repository, feel free to contact Shun Inadumi (inazumi.shun.in6[at]naist.ac.jp) or open an issue.
+If you have any questions about the paper and repository, feel free to contact Shun Inadumi (inazumi.shun.in6 [at] naist.ac.jp) or open an issue.
