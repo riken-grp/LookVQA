@@ -2,13 +2,13 @@
 
 [![Conference](https://img.shields.io/badge/LREC--COLING-2024-bbeaff.svg)](https://aclanthology.org/2024.lrec-main.48/) [![arXiv](https://img.shields.io/badge/arXiv-2403.17545-b31b1b.svg)](https://arxiv.org/abs/2403.17545)
 
-This repository includes a Gaze-grounded Visual Question Answering Dataset (GazeVQA) introduced by the following paper: Shun Inadumi, Seiya Kawano, Akishige Yuguchi, Yasutomo Kawanishi, Koichiro Yoshino. "A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions". In Proc. of LREC-COLING 2024.
+This repository includes a Gaze-grounded Visual Question Answering Dataset introduced by the following paper: Shun Inadumi, Seiya Kawano, Akishige Yuguchi, Yasutomo Kawanishi, Koichiro Yoshino. "A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions". In Proc. of LREC-COLING 2024.
 
 ## License
 [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 ## Dataset Format
-GazeVQA provides annotated 17,276 question/answer pairs for the [Gazefollow](https://gazefollow.csail.mit.edu/index.html) and [COCO](https://cocodataset.org/) Dataset.
+Our dataset provides annotated 17,276 question/answer pairs for the [Gazefollow](https://gazefollow.csail.mit.edu/index.html) and [COCO](https://cocodataset.org/) Dataset.
 
 ## QA format
 ```
